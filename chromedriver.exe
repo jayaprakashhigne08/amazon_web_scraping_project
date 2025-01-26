@@ -1,1 +1,6 @@
-# In web scraping with Selenium, the ChromeDriver is used to interact with the Google Chrome web browser programmatically
+In web scraping with Selenium, the ChromeDriver is used to interact with the Google Chrome web browser programmatically
+
+How It Works
+You download ChromeDriver, which is a small executable that interacts with the Chrome browser.
+You tell Selenium where the ChromeDriver is located.
+Selenium uses this driver to open the browser and execute actions on a webpage.
